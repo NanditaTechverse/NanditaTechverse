@@ -1,4 +1,10 @@
 
+<p align="center">
+  <img src="./nandita_github_readme_banner.png"
+       width="100%"
+       alt="Nandita Patnaik - Data Analytics">
+</p>
+
 <div align="center">
 
 # 👋 Hey, I'm Nandita Patnaik
