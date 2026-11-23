@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./nandita_github_readme_banner.png"
+  <img src="./nandita_github_readme_banner(1).png"
        width="100%"
        alt="Nandita Patnaik - Data Analytics">
 </p>
